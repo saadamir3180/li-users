@@ -133,8 +133,8 @@
 
 
 // let x = new per('Saad', 'BSE-2B' , 7978);
-// let y = new per('Maham', 'RIT-3' , 7979);
-// let z = new per('Atiqa', 'BSE-2B' , 7935);
+// let y = new per('jhon', 'RIT-3' , 7979);
+// let z = new per('LIEN', 'BSE-2B' , 7935);
 // let l = z.getName();
 
 // console.log(x);
